@@ -1,1 +1,2 @@
-# tic-tac-game
+# tic-tac-game by jashanpreet singh dhaliwal
+
